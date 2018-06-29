@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <jdbc-resource pool-name="secPool"
+                   jndi-name="jdbc/secDS"/>
+    <jdbc-connection-pool name="secPool"
+                          res-type="javax.sql.DataSource">
+        <property name="user" value="root"/>
+        <property name="password" value="root"/>
+        <property name="url" value="jdbc:mysql://localhost:3306/sec"/>
+    </jdbc-connection-pool>
+</resources>

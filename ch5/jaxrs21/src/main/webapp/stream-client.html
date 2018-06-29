@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Stream Client</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    </head>
+    <body>
+        <h1>Server-Sent Events Test</h1>
+        <div id="messages">
+            <!--Server sent messages will be displayed here!-->
+        </div>
+
+        <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+        <script>
+            if (window.EventSource) {
+                var source = new EventSource('/jaxrs21/webresources/events');
+
+
+                source.addEventListener('message', function (e) {
+                    $('#messages').append('<p>' + e.data + '</p?');
+                }, false);
+
+            } else {
+                window.alert("Event source is not supported by your browser!");
+            }
+
+        </script>
+    </body>
+</html>

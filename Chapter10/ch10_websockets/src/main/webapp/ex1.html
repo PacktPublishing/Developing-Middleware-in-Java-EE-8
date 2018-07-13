@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head></head>
+    <body>
+        <h1>Message Sender</h1>
+        <input id="message"/>
+        <button onclick="send()">Send</button>
+        <h2>Log</h2>
+        <div id="log_container">
+
+        </div>
+        <script>
+            var ws = new WebSocket("ws://localhost:9354/ch5_websockets/echo");
+
+
+            ws.onopen = function ()
+            {
+                log("Connection opened");
+            };
+            
+            ws.onmessage = function (evt)
+            {
+                log("RECEIEVED: " + evt.data);
+            };
+
+            function send() {
+                var msg = document.getElementById("message").value;
+                ws.send(msg);
+                log("SENT: " + msg);
+                document.getElementById("message").value = "";
+            }
+            
+            function log(text) {
+                var newP = document.createElement("p");
+                newP.innerHTML = text;
+                document.getElementById("log_container").appendChild(newP);
+            }
+        </script>
+    </body>
+</html>

@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    </head>
+    <body>
+        <script>
+            var ws = new WebSocket("ws://localhost:9354/ch5_websockets/rooms/room1/user1");
+            ws.onopen=function() {
+              ws.send("hello world");  
+            };
+        </script>
+    </body>
+</html>

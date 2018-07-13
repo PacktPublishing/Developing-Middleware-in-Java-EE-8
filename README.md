@@ -39,24 +39,19 @@ With the following software and hardware list you can run all code files present
 ### Software and Hardware List
 | Chapter  | Software required                   | OS required                        |
 | -------- | ------------------------------------| -----------------------------------|
-| 1        | R version 3.3.0                     | Windows, Mac OS X, and Linux (Any) |
-| 2        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 3        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 4        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 5        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 6        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-
+| 1        | Java Development Kit (JDK) 1.8      | Windows, Mac OS X, and Linux (Any) |
+| 2        | Netbeans IDE 8.2                    | Windows, Mac OS X, and Linux (Any) |
+| 3        | GlassFish 5                         | Windows, Mac OS X, and Linux (Any) |
+| 4        | MySQL 8                             | Windows, Mac OS X, and Linux (Any) |
+| 5        | Postman 6                           | Windows, Mac OS X, and Linux (Any) |
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://www.packtpub.com/sites/default/files/downloads/DevelopingMiddlewareinJavaEE8_ColorImages.pdf).
 
 ### Related products
-*  [[Packt]](https://www.packtpub.com/application-development/java-ee-8-cookbook?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/1-788-29303-7)
+*  [[Packt]](https://www.packtpub.com/application-development/java-ee-8-cookbook?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/1788293037)
 
-*  [[Packt]](https://www.packtpub.com/application-development/java-ee-8-high-performance?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/1-788-47306-X)
+*  [[Packt]](https://www.packtpub.com/application-development/java-ee-8-high-performance?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/178847306X)
 
-*  [[Packt]]() [[Amazon]](https://www.amazon.com/dp/)
-
-*  [[Packt]]() [[Amazon]](https://www.amazon.com/dp/)
 
 ## Get to Know the Author
 **Abdalla Mahmoud**

@@ -48,9 +48,9 @@ With the following software and hardware list you can run all code files present
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://www.packtpub.com/sites/default/files/downloads/DevelopingMiddlewareinJavaEE8_ColorImages.pdf).
 
 ### Related products
-*  [[Packt]](https://www.packtpub.com/application-development/java-ee-8-cookbook?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/1788293037)
+* Java EE 8 Cookbook [[Packt]](https://www.packtpub.com/application-development/java-ee-8-cookbook?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/1788293037)
 
-*  [[Packt]](https://www.packtpub.com/application-development/java-ee-8-high-performance?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/178847306X)
+* Java EE 8 High Performance [[Packt]](https://www.packtpub.com/application-development/java-ee-8-high-performance?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/178847306X)
 
 
 ## Get to Know the Author

@@ -19,7 +19,7 @@ Perform serialization and deserialization on JSON documents using JSON-B
 Utilize JMS for messaging and queuing models and securing applications 
 Test applications using JUnit and Mockito and deploy them using Docker 
 
-If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1-788-39107-1) today!
+If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1788391071) today!
 
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
 alt="https://www.packtpub.com/" border="5" /></a>
@@ -29,13 +29,20 @@ All of the code is organized into folders. For example, Chapter02.
 
 The code will look like the following:
 ```
-https://github.com/PacktPublishing/Developing-Middleware-in-Java-EE-8
+public class ClientMDB implements MessageListener { 
+ 
+    @Override 
+    public void onMessage(Message msg) { 
+        // cast message and process it here 
+    } 
+ 
+} 
 ```
 
 **Following is what you need for this book:**
 If you're a Java developer looking to improve the performance of your code or simply wanting to take your skills up to the next level, then this book is perfect for you.
 
-With the following software and hardware list you can run all code files present in the book (Chapter 1-15).
+With the following software and hardware list you can run all code files present in the book (Chapter 2-10).
 ### Software and Hardware List
 | Chapter  | Software required                   | OS required                        |
 | -------- | ------------------------------------| -----------------------------------|

@@ -64,3 +64,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 **Abdalla Mahmoud**
 Abdalla Mahmoud is a Java software architect and trainer with 14+ years of experience in the software development industry. He's led many successful projects using a broad range of technologies and frameworks covering the most out of the web, desktop, and mobile development aspects. He's also contributed in training hundreds of Java software engineers for more than 7 years, on different topics including Java EE, Spring, design patterns, and Android.
 
+### Suggestions and Feedback
+[Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
+
+

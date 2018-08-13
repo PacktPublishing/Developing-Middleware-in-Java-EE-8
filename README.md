@@ -46,11 +46,11 @@ With the following software and hardware list you can run all code files present
 ### Software and Hardware List
 | Chapter  | Software required                   | OS required                        |
 | -------- | ------------------------------------| -----------------------------------|
-| 1        | Java Development Kit (JDK) 1.8      | Windows, Mac OS X, and Linux (Any) |
-| 2        | Netbeans IDE 8.2                    | Windows, Mac OS X, and Linux (Any) |
-| 3        | GlassFish 5                         | Windows, Mac OS X, and Linux (Any) |
-| 4        | MySQL 8                             | Windows, Mac OS X, and Linux (Any) |
-| 5        | Postman 6                           | Windows, Mac OS X, and Linux (Any) |
+| 2-10     | Java Development Kit (JDK) 1.8      | Windows, Mac OS X, and Linux (Any) |
+| 2-10     | Netbeans IDE 8.2                    | Windows, Mac OS X, and Linux (Any) |
+| 2-10     | GlassFish 5                         | Windows, Mac OS X, and Linux (Any) |
+| 2-10     | MySQL 8                             | Windows, Mac OS X, and Linux (Any) |
+| 2-10     | Postman 6                           | Windows, Mac OS X, and Linux (Any) |
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://www.packtpub.com/sites/default/files/downloads/DevelopingMiddlewareinJavaEE8_ColorImages.pdf).
 

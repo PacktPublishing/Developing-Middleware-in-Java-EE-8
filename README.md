@@ -4,7 +4,7 @@
 
 This is the code repository for [Developing Middleware in Java EE 8](https://www.packtpub.com/application-development/developing-middleware-java-ee-8?utm_source=github&utm_medium=repository&utm_campaign=9781788391078), published by Packt.
 
-**Use Java features such as JAX-RS, EJBs, and JPAs to build powerful middleware for newer architectures such as the cloud**
+**Build robust middleware solutions using the latest technologies and trends**
 
 ## What is this book about?
 Middleware is the infrastructure in software based applications that enables businesses to solve problems, operate more efficiently, and make money. As the use of middleware extends beyond a single application, the importance of having it written by experts increases substantially. This book will help you become an expert in developing middleware for a variety of applications.
